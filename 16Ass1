@@ -1,0 +1,13 @@
+if __name__ == '__main__':
+    n = int(input())
+    i=0
+    while i<n:
+        print(i*i)
+        i=i+1
+        o/p:
+        0
+        1
+        4
+        9
+        16
+ 
